@@ -1,6 +1,3 @@
-# mi-portafolio
-Este portafolio esta hecho en HTML y CSS
-# Nombre del Proyecto
 
 ## Descripción
 Breve resumen del proyecto, qué hace, para qué sirve y qué tecnologías usa.
