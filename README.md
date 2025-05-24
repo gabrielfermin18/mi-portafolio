@@ -15,8 +15,8 @@ El presente proyecto tiene como objetivo desarrollar un sistema web para **Pizza
 - HTML, CSS y JavaScript para el diseño de las vistas
 
 ## Ver ejemplo en vivo
-![Demo del proyecto](assets/demo.gif)  
-*O puedes ver el video completo en [este enlace](URL_DEL_VIDEO_SI_TIENES)*
+
+[![proyecto en YouTube](https://img.youtube.com/vi/CjWG10N2VhI/maxresdefault.jpg)](https://youtu.be/CjWG10N2VhI)
 
 ## Instalación
 
